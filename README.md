@@ -25,17 +25,7 @@ A Human Pose Skeleton represents the orientation of a person in a graphical form
 6. Run demo.py to train LSTM and display predicted dance video.
 > `python main.py --video data/video.mp4 --audio data/audio.wav --background data/bg1.jpg `
 
-# Results
 
-1. **Pose estimation using openpose on image**
-
-![image](https://github.com/Devashi-Choudhary/AI-Dance-based-on-Human-Pose-Estimation/blob/main/outputs/1.JPG)
-
-2. **Pose estimation using openpose on video** 
-
-[![](http://i3.ytimg.com/vi/JrekUhYvGt4/hqdefault.jpg)](https://youtu.be/JrekUhYvGt4)
-
-**NOte** : For more information about implementation details, please go through [AI Dance based on Human Pose Estimation](https://devashi-choudhary.medium.com/ai-dance-based-on-human-pose-estimation-738ac2ff6d1f)
 
 # References
 
